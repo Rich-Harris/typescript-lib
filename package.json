@@ -28,5 +28,6 @@
     "build": "npm run build-declarations && rollup -c",
     "test": "mocha --opts mocha.opts",
     "pretest": "npm run build"
-  }
+  },
+  "license": "LIL"
 }
