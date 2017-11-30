@@ -2,14 +2,12 @@
   "name": "TODO",
   "description": "TODO",
   "version": "1.0.0",
-  "main": "TODO.umd.js",
-  "module": "TODO.esm.js",
+  "main": "dist/TODO.umd.js",
+  "module": "dist/TODO.esm.js",
   "types": "types/index.d.ts",
   "files": [
-    "TODO.esm.js",
-    "TODO.umd.js",
-	"types",
-    "src"
+    "dist",
+	  "types"
   ],
   "devDependencies": {
     "@types/mocha": "^2.2.44",
