@@ -1,13 +1,13 @@
 {
-  "name": "UNTITLED",
-  "description": "Stuff I often need",
-  "version": "0.0.9",
-  "main": "UNTITLED.umd.js",
-  "module": "UNTITLED.esm.js",
+  "name": "TODO",
+  "description": "TODO",
+  "version": "1.0.0",
+  "main": "TODO.umd.js",
+  "module": "TODO.esm.js",
   "types": "types/index.d.ts",
   "files": [
-    "UNTITLED.esm.js",
-    "UNTITLED.umd.js",
+    "TODO.esm.js",
+    "TODO.umd.js",
 	"types",
     "src"
   ],
