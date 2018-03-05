@@ -2,6 +2,7 @@
   "name": "TODO",
   "description": "TODO",
   "version": "1.0.0",
+  "repository": "Rich-Harris/TODO",
   "main": "dist/TODO.umd.js",
   "module": "dist/TODO.esm.js",
   "types": "types/index.d.ts",
