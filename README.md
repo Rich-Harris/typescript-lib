@@ -1,6 +1,6 @@
 # typescript-lib
 
-Clone this project template with [degit](https://github.com/Rich-Harris/typescript-lib):
+Clone this project template with [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
 npx degit rich-harris/typescript-lib my-new-lib
