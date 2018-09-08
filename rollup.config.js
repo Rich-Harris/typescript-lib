@@ -5,7 +5,7 @@ export default {
 	input: 'src/index.ts',
 	output: [
 		{ file: pkg.main, format: 'umd' },
-		{ file: pkg.module, format: 'es' }
+		{ file: pkg.module, format: 'esm' }
 	],
 	name: 'TODO',
 	plugins: [
