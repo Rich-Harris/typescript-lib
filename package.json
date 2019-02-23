@@ -16,10 +16,10 @@
     "glob": "^7.1.2",
     "mocha": "^5.2.0",
     "rollup": "^0.65.2",
-    "rollup-plugin-typescript": "^0.8.1",
+    "rollup-plugin-sucrase": "^2.1.0",
     "sander": "^0.6.0",
-    "ts-node": "^7.0.1",
-    "typescript": "^3.0.3"
+    "sucrase": "^3.9.5",
+    "tiny-glob": "^0.2.6"
   },
   "scripts": {
     "build-declarations": "tsc -d && node scripts/move-type-declarations.js",
