@@ -27,5 +27,5 @@
     "test": "mocha --opts mocha.opts",
     "prepublishOnly": "npm test && npm run build"
   },
-  "license": "LIL"
+  "license": "MIT"
 }
